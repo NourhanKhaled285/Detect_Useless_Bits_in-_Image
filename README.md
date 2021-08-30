@@ -1,1 +1,1 @@
-# Detect_Useless_Bits_in-_Image
+# Detect Useless Bits in Image
